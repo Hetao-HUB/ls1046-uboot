@@ -1,0 +1,310 @@
+include/config/auto.conf: \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/common.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/kconfig.h \
+ include/generated/autoconf.h include/config.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/config_defaults.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/config_uncmd_spl.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/configs/ls1046afrwy.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/configs/ls1046a_common.h \
+ include/asm/arch/config.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/kconfig.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/fsl_ddrc_version.h \
+ include/asm/arch/stream_id_lsch2.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/config_distro_bootcmd.h \
+ include/asm/arch/soc.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/types.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/posix_types.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/stddef.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/posix_types.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/types.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/int-ll64.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/7/include/stdbool.h \
+ include/asm/arch/immap_lsch2.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/fsl_immap.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/fsl_secure_boot.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/config.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/config_fallbacks.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/errno.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/errno.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/time.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/typecheck.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-offsets.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/bitops.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/bitsperlong.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/compiler.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/compiler-gcc.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/bitops.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/bitops/__ffs.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/proc-armv/system.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/bitops/__fls.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/bitops/fls.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/bitops/fls64.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/bug.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/vsprintf.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/7/include/stdarg.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/build_bug.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/printk.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/stdio.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/delay.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/kernel.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/string.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/string.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/linux_string.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/stringify.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/ptrace.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/proc-armv/ptrace.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/part.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/blk.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/efi.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/linkage.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/linkage.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/ide.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/uuid.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/list.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/poison.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/part_efi.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/flash.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/image.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/compiler.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/7/include/stddef.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/byteorder.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/byteorder/little_endian.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/byteorder/swab.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/byteorder/generic.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/lmb.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/u-boot.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/u-boot.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/u-boot-arm.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/command.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linker_lists.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/hash.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/libfdt.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/libfdt_env.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/../../scripts/dtc/libfdt/libfdt.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/../../scripts/dtc/libfdt/libfdt_env.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/../../scripts/dtc/libfdt/fdt.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/fdt_support.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/pci.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/pci_ids.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/log.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/dm/uclass-id.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/global_data.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/global_data.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/membuff.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/init.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/display_options.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/u-boot/crc.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/net.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/cache.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/system.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/common.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/barriers.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/if_ether.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/bootstage.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/environment.h
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/kconfig.h:
+
+include/generated/autoconf.h:
+
+include/config.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/config_defaults.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/config_uncmd_spl.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/configs/ls1046afrwy.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/configs/ls1046a_common.h:
+
+include/asm/arch/config.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/kconfig.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/fsl_ddrc_version.h:
+
+include/asm/arch/stream_id_lsch2.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/config_distro_bootcmd.h:
+
+include/asm/arch/soc.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/types.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/posix_types.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/stddef.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/posix_types.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/types.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/int-ll64.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/7/include/stdbool.h:
+
+include/asm/arch/immap_lsch2.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/fsl_immap.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/fsl_secure_boot.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/config.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/config_fallbacks.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/errno.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/errno.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/time.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/typecheck.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-offsets.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/bitops.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/bitsperlong.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/compiler.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/compiler-gcc.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/bitops.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/bitops/__ffs.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/proc-armv/system.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/bitops/__fls.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/bitops/fls.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/bitops/fls64.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/bug.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/vsprintf.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/7/include/stdarg.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/build_bug.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/printk.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/stdio.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/delay.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/kernel.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/string.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/string.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/linux_string.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/stringify.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/ptrace.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/proc-armv/ptrace.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/part.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/blk.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/efi.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/linkage.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/linkage.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/ide.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/uuid.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/list.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/poison.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/part_efi.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/flash.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/image.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/compiler.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/7/include/stddef.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/byteorder.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/byteorder/little_endian.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/byteorder/swab.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/byteorder/generic.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/lmb.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/u-boot.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/u-boot.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/u-boot-arm.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/command.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linker_lists.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/hash.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/libfdt.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/libfdt_env.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/../../scripts/dtc/libfdt/libfdt.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/../../scripts/dtc/libfdt/libfdt_env.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/../../scripts/dtc/libfdt/fdt.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/fdt_support.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/pci.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/pci_ids.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/log.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/dm/uclass-id.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/global_data.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/asm-generic/global_data.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/membuff.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/init.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/display_options.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/u-boot/crc.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/net.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/cache.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/system.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/common.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/include/asm/barriers.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/if_ether.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/bootstage.h:
+
+/home/wjy/Desktop/llll/packages/firmware/u-boot/include/environment.h:

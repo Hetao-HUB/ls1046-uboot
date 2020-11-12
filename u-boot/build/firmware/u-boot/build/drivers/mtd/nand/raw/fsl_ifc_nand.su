@@ -1,0 +1,12 @@
+fsl_ifc_nand.c:797:13:fsl_ifc_select_chip	0	static
+fsl_ifc_nand.c:221:13:set_addr	0	static
+fsl_ifc_nand.c:647:13:fsl_ifc_read_buf	48	static
+fsl_ifc_nand.c:736:12:fsl_ifc_read_page	112	static
+fsl_ifc_nand.c:571:13:fsl_ifc_write_buf	48	static
+fsl_ifc_nand.c:757:12:fsl_ifc_write_page	32	static
+fsl_ifc_nand.c:255:12:fsl_ifc_run_command	64	static
+fsl_ifc_nand.c:670:12:fsl_ifc_wait	48	static
+fsl_ifc_nand.c:599:11:fsl_ifc_read_byte	16	static
+fsl_ifc_nand.c:623:16:fsl_ifc_read_byte16	16	static
+fsl_ifc_nand.c:367:13:fsl_ifc_cmdfunc	32	static
+fsl_ifc_nand.c:1058:6:board_nand_init	80	static

@@ -1,0 +1,1 @@
+cmd_board/freescale/common/built-in.o :=  aarch64-linux-gnu-ld.bfd     -r -o board/freescale/common/built-in.o board/freescale/common/fman.o board/freescale/common/sys_eeprom.o board/freescale/common/mc34vr500.o board/freescale/common/ns_access.o 

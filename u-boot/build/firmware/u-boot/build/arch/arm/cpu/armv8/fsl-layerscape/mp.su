@@ -1,0 +1,11 @@
+mp.c:208:12:core_to_pos	48	static
+mp.c:16:7:get_spin_tbl_addr	0	static
+mp.c:21:13:determine_mp_bootpg	0	static
+mp.c:26:6:update_os_arch_secondary_cores	0	static
+mp.c:67:5:fsl_layerscape_wake_seconday_cores	80	static
+mp.c:176:5:is_core_valid	32	static
+mp.c:186:5:is_core_online	0	static
+mp.c:194:5:cpu_reset	16	static
+mp.c:201:5:cpu_disable	16	static
+mp.c:234:5:cpu_status	48	static
+mp.c:260:5:cpu_release	48	static

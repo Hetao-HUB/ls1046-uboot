@@ -1,0 +1,5 @@
+jobdesc.c:175:6:inline_cnstr_jobdesc_hash	0	static
+jobdesc.c:207:6:inline_cnstr_jobdesc_blob_encap	0	static
+jobdesc.c:232:6:inline_cnstr_jobdesc_blob_decap	0	static
+jobdesc.c:259:6:inline_cnstr_jobdesc_rng_instantiation	0	static
+jobdesc.c:288:6:inline_cnstr_jobdesc_pkha_rsaexp	0	static

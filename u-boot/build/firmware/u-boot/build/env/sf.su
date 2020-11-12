@@ -1,0 +1,6 @@
+sf.c:40:12:setup_flash_device	48	static
+sf.c:252:12:env_sf_load	48	static
+sf.c:191:12:env_sf_save.part.0	8240	static
+sf.c:191:12:env_sf_save	16	static
+sf.c:289:14:env_sf_get_env_addr	0	static
+sf.c:296:12:env_sf_init	32	static

@@ -1,0 +1,2 @@
+mc34vr500.c:20:5:mc34vr500_get_sw_volt	64	static
+mc34vr500.c:60:5:mc34vr500_set_sw_volt	48	static

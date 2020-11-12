@@ -1,0 +1,14 @@
+init.c:116:12:fm_port_to_index	0	static
+init.c:87:5:fm_standard_init	32	static
+init.c:133:6:fman_enet_init	48	static
+init.c:152:6:fm_disable_port	16	static
+init.c:165:6:fm_enable_port	16	static
+init.c:176:6:fm_info_set_mdio	16	static
+init.c:186:6:fm_info_set_phy_address	16	static
+init.c:202:5:fm_info_get_phy_address	16	static
+init.c:216:17:fm_info_get_enet_if	16	static
+init.c:230:1:__def_board_ft_fman_fixup_port	0	static
+init.c:240:5:ft_fixup_port	80	static
+init.c:314:6:fdt_fixup_fman_ethernet	64	static
+init.c:366:5:is_qsgmii_riser_card	64	static
+init.c:344:6:set_sgmii_phy	48	static

@@ -1,0 +1,2 @@
+ls1046.c:44:6:fman_disable_port	0	static
+ls1046.c:51:17:fman_port_enet_if	32	static

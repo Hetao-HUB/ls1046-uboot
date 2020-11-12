@@ -1,0 +1,14 @@
+ls1046afrwy.c:42:5:select_i2c_ch_pca9547	48	static
+ls1046afrwy.c:85:5:board_early_init_f	16	static
+ls1046afrwy.c:110:9:led_on_test	48	static
+ls1046afrwy.c:131:5:checkboard	16	static
+ls1046afrwy.c:170:5:board_init	16	static
+ls1046afrwy.c:194:5:board_setup_core_volt	0	static
+ls1046afrwy.c:199:5:get_serdes_volt	0	static
+ls1046afrwy.c:204:5:set_serdes_volt	0	static
+ls1046afrwy.c:209:5:power_init_board	32	static
+ls1046afrwy.c:222:6:config_board_mux	0	static
+ls1046afrwy.c:303:5:misc_init_r	16	static
+ls1046afrwy.c:310:5:ft_board_setup	64	static
+ls1046afrwy.c:334:5:checkFileSize	32	static
+ls1046afrwy.c:348:5:do_update_uboot	352	static

@@ -1,0 +1,9 @@
+fsl_lsch2_serdes.c:39:5:serdes_get_first_lane	48	static
+fsl_lsch2_serdes.c:75:5:get_serdes_protocol	0	static
+fsl_lsch2_serdes.c:85:13:serdes_clock_to_string	0	static
+fsl_lsch2_serdes.c:99:6:serdes_init	64	static
+fsl_lsch2_serdes.c:131:12:get_serdes_volt	0	static
+fsl_lsch2_serdes.c:136:12:set_serdes_volt	0	static
+fsl_lsch2_serdes.c:141:5:setup_serdes_volt	112	static
+fsl_lsch2_serdes.c:403:6:fsl_serdes_init	16	static
+fsl_lsch2_serdes.c:19:5:is_serdes_configured	48	static

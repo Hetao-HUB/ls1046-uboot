@@ -1,0 +1,4 @@
+mmc.c:113:12:mmc_get_env_addr	208	static
+mmc.c:125:12:mmc_get_env_dev	0	static
+mmc.c:199:12:env_mmc_save	8320	static
+mmc.c:307:12:env_mmc_load	8320	static

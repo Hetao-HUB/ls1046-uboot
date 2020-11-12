@@ -1,0 +1,1 @@
+arch/arm/dts/fsl-ls1012a-frdm.dtb: arch/arm/dts/.fsl-ls1012a-frdm.dtb.dts.tmp /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/dts/fsl-ls1012a.dtsi /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/dts/skeleton64.dtsi

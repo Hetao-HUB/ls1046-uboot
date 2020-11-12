@@ -1,0 +1,5 @@
+memac_phy.c:25:12:memac_in_32	0	static
+memac_phy.c:131:5:memac_mdio_reset	0	static
+memac_phy.c:39:5:memac_mdio_write	16	static
+memac_phy.c:84:5:memac_mdio_read	48	static
+memac_phy.c:136:5:fm_memac_mdio_init	32	static

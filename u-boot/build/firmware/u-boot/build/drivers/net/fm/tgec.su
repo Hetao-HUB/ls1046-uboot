@@ -1,0 +1,6 @@
+tgec.c:55:13:tgec_enable_mac	0	static
+tgec.c:62:13:tgec_disable_mac	0	static
+tgec.c:86:13:tgec_set_interface_mode	0	static
+tgec.c:69:13:tgec_set_mac_addr	0	static
+tgec.c:28:13:tgec_init_mac	32	static
+tgec.c:93:6:init_tgec	0	static

@@ -1,0 +1,13 @@
+fsl_ddr_sdram.h:436:13:__board_assert_mem_reset	0	static
+fsl_ddr_sdram.h:440:13:__board_deassert_mem_reset	0	static
+fsl_ddr_sdram.h:450:12:__board_need_mem_reset	0	static
+util.c:27:5:fsl_ddr_get_version	16	static
+util.c:69:14:get_memory_clk_period_ps	16	static
+util.c:85:14:picos_to_mclk	32	static
+util.c:114:14:mclk_to_picos	32	static
+util.c:156:6:fsl_ddr_set_intl3r	0	static
+util.c:165:5:fsl_ddr_get_intl3r	0	static
+util.c:175:6:print_ddr_info	48	static
+util.c:325:13:detail_board_ddr_info	0	static
+util.c:330:6:board_add_ram_info	0	static
+util.c:390:6:remove_unused_controllers	0	static

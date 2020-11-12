@@ -1,0 +1,10 @@
+fsl_lsch2_speed.c:22:6:get_sys_info	112	static
+fsl_lsch2_speed.c:166:15:get_qman_freq	96	static
+fsl_lsch2_speed.c:176:5:get_clocks	96	static
+fsl_lsch2_speed.c:199:7:get_bus_freq	16	static
+fsl_lsch2_speed.c:207:7:get_ddr_freq	16	static
+fsl_lsch2_speed.c:216:5:get_sdhc_freq	16	static
+fsl_lsch2_speed.c:225:5:get_serial_clock	16	static
+fsl_lsch2_speed.c:230:5:get_i2c_freq	16	static
+fsl_lsch2_speed.c:235:5:get_dspi_freq	0	static
+fsl_lsch2_speed.c:247:14:mxc_get_clock	16	static

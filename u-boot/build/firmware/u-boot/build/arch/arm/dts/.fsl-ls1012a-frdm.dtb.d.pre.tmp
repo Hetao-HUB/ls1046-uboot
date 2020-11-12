@@ -1,0 +1,4 @@
+.fsl-ls1012a-frdm.dtb.pre.o: arch/arm/dts/.fsl-ls1012a-frdm.dtb.pre.tmp \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/kconfig.h \
+ include/generated/autoconf.h \
+ /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/dts/fsl-ls1012a-frdm.dtsi

@@ -1,0 +1,6 @@
+sec_firmware.c:306:13:sec_firmware_is_valid	32	static
+sec_firmware.c:334:14:sec_firmware_support_psci_version	0	static
+sec_firmware.c:349:6:sec_firmware_support_hwrng	0	static
+sec_firmware.c:368:5:sec_firmware_get_random	304	static
+sec_firmware.c:406:5:sec_firmware_init	160	static
+sec_firmware.c:456:5:fdt_fixup_kaslr	48	static

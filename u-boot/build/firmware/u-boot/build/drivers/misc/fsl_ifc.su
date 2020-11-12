@@ -1,0 +1,4 @@
+fsl_ifc.c:339:13:ifc_cfg_boot_info	0	static
+fsl_ifc.c:346:6:print_ifc_regs	80	static
+fsl_ifc.c:361:6:init_early_memctl_regs	32	static
+fsl_ifc.c:392:6:init_final_memctl_regs	32	static

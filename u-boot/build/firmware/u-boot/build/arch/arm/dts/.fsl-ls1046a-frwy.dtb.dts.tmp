@@ -1,0 +1,49 @@
+# 1 "arch/arm/dts/.fsl-ls1046a-frwy.dtb.pre.tmp"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/kconfig.h" 1
+
+
+
+# 1 "include/generated/autoconf.h" 1
+# 5 "/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/kconfig.h" 2
+# 1 "<command-line>" 2
+# 1 "arch/arm/dts/.fsl-ls1046a-frwy.dtb.pre.tmp"
+# 9 "arch/arm/dts/.fsl-ls1046a-frwy.dtb.pre.tmp"
+/dts-v1/;
+/include/ "fsl-ls1046a.dtsi"
+
+/ {
+ model = "LS1046A FRWY Board";
+
+ aliases {
+  spi0 = &qspi;
+ };
+
+};
+
+&qspi {
+ bus-num = <0>;
+ status = "okay";
+
+ qflash0: mt25qu128aba1ese@0 {
+  #address-cells = <1>;
+  #size-cells = <1>;
+  compatible = "spi-flash";
+  spi-max-frequency = <50000000>;
+  reg = <0>;
+ };
+
+    qflash1: mt25qu128aba1ese@1 {
+  #address-cells = <1>;
+  #size-cells = <1>;
+  compatible = "spi-flash";
+  spi-max-frequency = <50000000>;
+  reg = <1>;
+ };
+};
+
+
+&sata {
+ status = "okay";
+};

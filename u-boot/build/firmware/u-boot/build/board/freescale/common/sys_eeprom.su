@@ -1,0 +1,4 @@
+sys_eeprom.c:184:13:update_crc	32	static
+sys_eeprom.c:147:12:read_eeprom.part.0	32	static
+sys_eeprom.c:323:5:do_mac	320	static
+sys_eeprom.c:418:5:mac_read_from_eeprom	128	static

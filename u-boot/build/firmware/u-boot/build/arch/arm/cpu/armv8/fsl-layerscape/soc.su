@@ -1,0 +1,14 @@
+fsl_ddr_sdram.h:436:13:__board_assert_mem_reset	0	static
+fsl_ddr_sdram.h:440:13:__board_deassert_mem_reset	0	static
+fsl_ddr_sdram.h:450:12:__board_need_mem_reset	0	static
+soc.c:33:6:soc_has_dp_ddr	0	static
+soc.c:47:6:soc_has_aiop	0	static
+soc.c:446:6:erratum_a008850_post	0	static
+soc.c:497:5:get_core_volt_from_fuse	16	static
+soc.c:534:12:board_switch_core_volt	0	static
+soc.c:561:5:setup_chip_volt	32	static
+soc.c:608:6:fsl_lsch2_early_init_f	16	static
+soc.c:726:5:qspi_ahb_init	0	static
+soc.c:766:5:fsl_setenv_bootcmd	544	static
+soc.c:828:5:fsl_setenv_mcinitcmd	16	static
+soc.c:878:5:board_late_init	16	static

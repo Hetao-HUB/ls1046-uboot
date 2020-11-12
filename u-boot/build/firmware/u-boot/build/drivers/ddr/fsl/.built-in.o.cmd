@@ -1,0 +1,1 @@
+cmd_drivers/ddr/fsl/built-in.o :=  aarch64-linux-gnu-ld.bfd     -r -o drivers/ddr/fsl/built-in.o drivers/ddr/fsl/main.o drivers/ddr/fsl/util.o drivers/ddr/fsl/ctrl_regs.o drivers/ddr/fsl/options.o drivers/ddr/fsl/lc_common_dimm_params.o drivers/ddr/fsl/ddr4_dimm_params.o drivers/ddr/fsl/interactive.o drivers/ddr/fsl/fsl_ddr_gen4.o 

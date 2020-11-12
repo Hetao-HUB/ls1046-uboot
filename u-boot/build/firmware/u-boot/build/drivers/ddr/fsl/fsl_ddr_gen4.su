@@ -1,0 +1,4 @@
+fsl_ddr_sdram.h:436:13:__board_assert_mem_reset	0	static
+fsl_ddr_sdram.h:440:13:__board_deassert_mem_reset	0	static
+fsl_ddr_sdram.h:450:12:__board_need_mem_reset	0	static
+fsl_ddr_gen4.c:50:6:fsl_ddr_set_memctl_regs	608	static

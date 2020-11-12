@@ -1,0 +1,2 @@
+fman.c:33:5:fdt_set_phy_handle	64	static
+fman.c:68:17:serdes_device_from_fm_port	0	static

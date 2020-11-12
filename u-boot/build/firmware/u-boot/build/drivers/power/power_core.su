@@ -1,0 +1,5 @@
+power_core.c:20:5:check_reg	16	static
+power_core.c:31:5:pmic_set_output	64	static
+power_core.c:49:14:pmic_alloc	32	static
+power_core.c:66:14:pmic_get	48	static
+power_core.c:123:12:do_pmic	96	static

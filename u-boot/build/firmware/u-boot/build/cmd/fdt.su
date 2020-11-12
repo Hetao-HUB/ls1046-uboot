@@ -1,0 +1,6 @@
+fdt.c:751:12:fdt_valid	48	static
+fdt.c:901:12:is_printable_string	0	static
+fdt.c:944:13:print_data	80	static
+fdt.c:39:6:set_working_fdt_addr	0	static
+fdt.c:124:12:do_fdt	160	static
+fdt.c:48:5:get_itb_length	0	static

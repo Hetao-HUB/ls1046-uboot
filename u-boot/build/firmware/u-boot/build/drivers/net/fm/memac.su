@@ -1,0 +1,6 @@
+memac.c:35:13:memac_enable_mac	0	static
+memac.c:43:13:memac_disable_mac	0	static
+memac.c:67:13:memac_set_interface_mode	0	static
+memac.c:50:13:memac_set_mac_addr	0	static
+memac.c:18:13:memac_init_mac	0	static
+memac.c:133:6:init_memac	0	static

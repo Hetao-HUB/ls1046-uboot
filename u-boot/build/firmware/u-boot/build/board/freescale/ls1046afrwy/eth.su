@@ -1,0 +1,2 @@
+eth.c:119:5:board_eth_init	64	static
+eth.c:202:5:fdt_update_ethernet_dt	96	static

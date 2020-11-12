@@ -1,0 +1,5 @@
+fdt.c:31:5:fdt_fixup_phy_connection	48	static
+fdt.c:38:6:ft_fixup_cpu	128	static
+fdt.c:146:6:fsl_fdt_disable_usb	0	static
+fdt.c:378:6:fdt_fixup_remove_jr	64	static
+fdt.c:404:6:ft_cpu_setup	48	static

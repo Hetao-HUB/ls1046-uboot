@@ -1,0 +1,12 @@
+fsl_ddr_sdram.h:436:13:__board_assert_mem_reset	0	static
+fsl_ddr_sdram.h:450:12:__board_need_mem_reset	0	static
+fsl_ddr_sdram.h:440:13:__board_deassert_mem_reset	0	static
+main.c:84:13:__get_spd	64	static
+main.c:136:13:update_spd_address	0	static
+main.c:142:6:fsl_ddr_get_spd	64	static
+main.c:222:14:step_to_string	32	static
+main.c:237:27:__step_assign_addresses	32	static
+main.c:414:1:fsl_ddr_compute	128	static
+main.c:620:13:__fsl_ddr_sdram	96	static
+main.c:800:13:fsl_ddr_sdram	1840	static
+main.c:848:1:fsl_ddr_sdram_size	1856	static

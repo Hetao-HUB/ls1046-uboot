@@ -1,0 +1,101 @@
+# 1 "arch/arm/dts/.fsl-ls1046a-qds-lpuart.dtb.pre.tmp"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/kconfig.h" 1
+
+
+
+# 1 "include/generated/autoconf.h" 1
+# 5 "/home/wjy/Desktop/llll/packages/firmware/u-boot/include/linux/kconfig.h" 2
+# 1 "<command-line>" 2
+# 1 "arch/arm/dts/.fsl-ls1046a-qds-lpuart.dtb.pre.tmp"
+
+
+
+
+
+
+
+/dts-v1/;
+# 1 "/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/dts/fsl-ls1046a-qds.dtsi" 1
+# 10 "/home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/dts/fsl-ls1046a-qds.dtsi"
+/include/ "fsl-ls1046a.dtsi"
+
+/ {
+ model = "LS1046A QDS Board";
+ aliases {
+  spi0 = &qspi;
+  spi1 = &dspi0;
+ };
+};
+
+&dspi0 {
+ bus-num = <0>;
+ status = "okay";
+
+ dflash0: n25q128a {
+  #address-cells = <1>;
+  #size-cells = <1>;
+  compatible = "spi-flash";
+  spi-max-frequency = <1000000>;
+  spi-cpol;
+  spi-cpha;
+  reg = <0>;
+ };
+
+ dflash1: sst25wf040b {
+  #address-cells = <1>;
+  #size-cells = <1>;
+  compatible = "spi-flash";
+  spi-max-frequency = <3500000>;
+  spi-cpol;
+  spi-cpha;
+  reg = <1>;
+ };
+
+ dflash2: en25s64 {
+  #address-cells = <1>;
+  #size-cells = <1>;
+  compatible = "spi-flash";
+  spi-max-frequency = <3500000>;
+  spi-cpol;
+  spi-cpha;
+  reg = <2>;
+ };
+};
+
+&qspi {
+ bus-num = <0>;
+ status = "okay";
+
+ qflash0: s25fl128s@0 {
+  #address-cells = <1>;
+  #size-cells = <1>;
+  compatible = "spi-flash";
+  spi-max-frequency = <20000000>;
+  reg = <0>;
+ };
+};
+
+&duart0 {
+ status = "okay";
+};
+
+&duart1 {
+ status = "okay";
+};
+
+&lpuart0 {
+ status = "okay";
+};
+
+&sata {
+ status = "okay";
+};
+# 10 "arch/arm/dts/.fsl-ls1046a-qds-lpuart.dtb.pre.tmp" 2
+
+/ {
+       chosen {
+               stdout-path = &lpuart0;
+       };
+};

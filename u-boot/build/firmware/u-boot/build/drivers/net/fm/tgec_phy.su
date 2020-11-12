@@ -1,0 +1,4 @@
+tgec_phy.c:103:12:tgec_mdio_reset	0	static
+tgec_phy.c:19:12:tgec_mdio_write	0	static
+tgec_phy.c:61:12:tgec_mdio_read	0	static
+tgec_phy.c:108:5:fm_tgec_mdio_init	32	static

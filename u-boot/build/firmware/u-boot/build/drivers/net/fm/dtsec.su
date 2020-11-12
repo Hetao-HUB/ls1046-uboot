@@ -1,0 +1,6 @@
+dtsec.c:64:13:dtsec_enable_mac	0	static
+dtsec.c:78:13:dtsec_disable_mac	0	static
+dtsec.c:109:13:dtsec_set_interface_mode	0	static
+dtsec.c:92:13:dtsec_set_mac_addr	0	static
+dtsec.c:26:13:dtsec_init_mac	32	static
+dtsec.c:155:6:init_dtsec	0	static

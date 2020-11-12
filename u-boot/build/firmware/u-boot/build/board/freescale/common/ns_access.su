@@ -1,0 +1,3 @@
+ns_access.c:179:6:set_devices_ns_access	0	static
+ns_access.c:206:6:enable_layerscape_ns_access	16	static
+ns_access.c:214:6:set_pcie_ns_access	16	static

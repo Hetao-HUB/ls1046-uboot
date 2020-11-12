@@ -1,0 +1,7 @@
+fsl_hash.c:45:29:get_hash_type.isra.0	16	static
+fsl_hash.c:161:5:caam_hash	64	static
+fsl_hash.c:201:6:hw_sha256	16	static
+fsl_hash.c:208:6:hw_sha1	16	static
+fsl_hash.c:215:5:hw_sha_init	32	static
+fsl_hash.c:220:5:hw_sha_update	48	static
+fsl_hash.c:226:5:hw_sha_finish	48	static

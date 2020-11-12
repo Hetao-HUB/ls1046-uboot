@@ -1,0 +1,2 @@
+pcie_layerscape_fixup.c:44:13:lut_writel.part.1	0	static
+pcie_layerscape_fixup.c:274:6:ft_pci_setup	144	static

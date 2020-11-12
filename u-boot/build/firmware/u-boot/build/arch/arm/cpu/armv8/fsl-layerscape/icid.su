@@ -1,0 +1,9 @@
+icid.c:24:6:set_fman_icids	0	static
+icid.c:36:6:set_icids	0	static
+icid.c:46:5:fdt_set_iommu_prop	64	static
+icid.c:70:5:fdt_fixup_icid_tbl	80	static
+icid.c:97:5:get_fman_port_icid	0	static
+icid.c:110:6:fdt_fixup_fman_port_icid_by_compat	80	static
+icid.c:142:6:fdt_fixup_fman_icids	32	static
+icid.c:156:5:fdt_get_smmu_phandle	32	static
+icid.c:179:6:fdt_fixup_icid	32	static

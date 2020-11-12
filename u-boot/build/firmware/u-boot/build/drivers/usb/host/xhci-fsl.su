@@ -1,0 +1,3 @@
+xhci-fsl.c:150:12:xhci_fsl_remove	32	static
+xhci-fsl.c:111:12:xhci_fsl_probe	48	static
+xhci-fsl.c:33:12:__board_usb_init	0	static

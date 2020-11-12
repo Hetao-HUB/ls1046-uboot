@@ -1,0 +1,1 @@
+arch/arm/dts/fsl-ls1043a-qds-lpuart.dtb: arch/arm/dts/.fsl-ls1043a-qds-lpuart.dtb.dts.tmp /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/dts/fsl-ls1043a.dtsi /home/wjy/Desktop/llll/packages/firmware/u-boot/arch/arm/dts/skeleton64.dtsi

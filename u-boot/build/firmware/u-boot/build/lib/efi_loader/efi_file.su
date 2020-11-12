@@ -1,0 +1,15 @@
+efi_file.c:624:28:efi_file_flush	16	static
+efi_file.c:614:28:efi_file_setinfo	16	static
+efi_file.c:460:28:efi_file_getpos	32	static
+efi_file.c:50:12:set_blk_dev.isra.0	0	static
+efi_file.c:150:32:file_open	112	static
+efi_file.c:702:1:efi_open_volume	32	static
+efi_file.c:221:28:efi_file_open	64	static
+efi_file.c:527:28:efi_file_getinfo	208	static
+efi_file.c:488:28:efi_file_setpos	48	static
+efi_file.c:422:28:efi_file_write	64	static
+efi_file.c:389:28:efi_file_read	96	static
+efi_file.c:282:28:efi_file_delete	32	static
+efi_file.c:275:28:efi_file_close	32	static
+efi_file.c:654:25:efi_file_from_path	48	static
+efi_file.c:715:1:efi_simple_file_system	48	static

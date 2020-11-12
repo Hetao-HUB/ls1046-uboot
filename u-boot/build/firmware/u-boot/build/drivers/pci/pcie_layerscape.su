@@ -1,0 +1,9 @@
+pcie_layerscape.c:94:13:ls_pcie_atu_outbound_set	0	static
+pcie_layerscape.c:108:13:ls_pcie_atu_inbound_set	0	static
+pcie_layerscape.c:345:13:ls_pcie_ep_setup_atu	16	static
+pcie_layerscape.c:283:12:ls_pcie_write_config	0	static
+pcie_layerscape.c:275:12:ls_pcie_read_config	0	static
+pcie_layerscape.c:36:21:ctrl_readl.part.2	0	static
+pcie_layerscape.c:53:12:ls_pcie_ltssm	32	static
+pcie_layerscape.c:247:5:ls_pcie_conf_address	80	static
+pcie_layerscape.c:483:12:ls_pcie_probe	128	static

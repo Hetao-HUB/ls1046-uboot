@@ -1,0 +1,6 @@
+ddr_spd.c:69:1:crc16	0	static
+ddr_spd.c:11:1:spd_check	32	static
+ddr_spd.c:49:1:ddr1_spd_check	0	static
+ddr_spd.c:57:1:ddr2_spd_check	0	static
+ddr_spd.c:86:1:ddr3_spd_check	16	static
+ddr_spd.c:117:14:ddr4_spd_check	16	static

@@ -1,0 +1,8 @@
+pci_compat.c:24:1:pci_hose_read_config_byte	0	static
+pci_compat.c:25:1:pci_hose_read_config_word	0	static
+pci_compat.c:26:1:pci_hose_read_config_dword	0	static
+pci_compat.c:27:1:pci_hose_write_config_byte	0	static
+pci_compat.c:28:1:pci_hose_write_config_word	0	static
+pci_compat.c:29:1:pci_hose_write_config_dword	0	static
+pci_compat.c:31:11:pci_find_devices	32	static
+pci_compat.c:40:24:pci_bus_to_hose	32	static

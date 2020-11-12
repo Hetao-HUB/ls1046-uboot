@@ -1,0 +1,2 @@
+ls1046a_serdes.c:59:17:serdes_get_prtcl	0	static
+ls1046a_serdes.c:76:5:is_serdes_prtcl_valid	0	static

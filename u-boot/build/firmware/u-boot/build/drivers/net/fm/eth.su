@@ -1,0 +1,8 @@
+eth.c:130:12:muram_readw	0	static
+eth.c:146:13:muram_writew	0	static
+eth.c:572:12:fm_eth_recv	80	static
+eth.c:514:12:fm_eth_send	80	static
+eth.c:35:13:dtsec_configure_serdes	400	static
+eth.c:491:13:fm_eth_halt	32	static
+eth.c:438:12:fm_eth_open	48	static
+eth.c:729:5:fm_eth_initialize	112	static

@@ -1,0 +1,9 @@
+interactive.c:36:13:print_option_table	64	static
+interactive.c:1813:21:fsl_ddr_parse_interactive_cmd	112	static
+interactive.c:68:12:handle_option_table	64	static
+fsl_ddr_sdram.h:436:13:__board_assert_mem_reset	0	static
+fsl_ddr_sdram.h:440:13:__board_deassert_mem_reset	0	static
+fsl_ddr_sdram.h:450:12:__board_need_mem_reset	0	static
+interactive.c:1425:6:ddr4_spd_dump	64	static
+interactive.c:1874:5:fsl_ddr_interactive_env_var_exists	528	static
+interactive.c:1884:20:fsl_ddr_interactive	1696	static

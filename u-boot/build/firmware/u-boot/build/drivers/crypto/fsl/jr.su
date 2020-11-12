@@ -1,0 +1,8 @@
+jr.c:257:12:jr_dequeue	80	static
+jr.c:339:13:desc_done	32	static
+jr.c:180:12:jr_enqueue.constprop	64	static
+jr.c:390:5:run_descriptor_jr	48	static
+jr.c:406:5:jr_reset	32	static
+jr.c:439:5:sec_reset	0	static
+jr.c:577:5:sec_init_idx	128	static
+jr.c:670:5:sec_init	0	static

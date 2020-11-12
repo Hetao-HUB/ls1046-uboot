@@ -1,0 +1,7 @@
+fsl_ddr_sdram.h:436:13:__board_assert_mem_reset	0	static
+fsl_ddr_sdram.h:440:13:__board_deassert_mem_reset	0	static
+fsl_ddr_sdram.h:450:12:__board_need_mem_reset	0	static
+options.c:25:13:fsl_ddr_board_options	0	static
+options.c:742:14:populate_memctl_options	208	static
+options.c:1322:6:check_interleaving_options	0	static
+options.c:1398:5:fsl_use_spd	160	static

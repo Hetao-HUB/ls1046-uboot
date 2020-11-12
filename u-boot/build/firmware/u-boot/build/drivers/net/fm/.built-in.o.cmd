@@ -1,0 +1,1 @@
+cmd_drivers/net/fm/built-in.o :=  aarch64-linux-gnu-ld.bfd     -r -o drivers/net/fm/built-in.o drivers/net/fm/dtsec.o drivers/net/fm/eth.o drivers/net/fm/fdt.o drivers/net/fm/fm.o drivers/net/fm/init.o drivers/net/fm/tgec.o drivers/net/fm/tgec_phy.o drivers/net/fm/memac_phy.o drivers/net/fm/memac.o drivers/net/fm/ls1046.o 

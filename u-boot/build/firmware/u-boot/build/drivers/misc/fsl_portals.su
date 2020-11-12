@@ -1,0 +1,4 @@
+fsl_portals.c:76:6:inhibit_portals	48	static
+fsl_portals.c:24:6:setup_qbman_portals	32	static
+fsl_portals.c:189:6:fdt_fixup_qportals	176	static
+fsl_portals.c:305:6:fdt_fixup_bportals	128	static

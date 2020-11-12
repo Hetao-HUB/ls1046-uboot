@@ -1,0 +1,4 @@
+fm.c:199:12:fm_assign_risc	0	static
+fm.c:26:7:fm_muram_base	0	static
+fm.c:31:7:fm_muram_alloc	32	static
+fm.c:353:5:fm_init_common	112	static
